@@ -6,4 +6,4 @@ python3
 
 主要方法在auto_login()和login()中
 
-tips:模拟post数据后要请求返回的地址才能完成登录！很
+tips:模拟post数据后要请求返回的地址才能完成登录！
